@@ -1,10 +1,5 @@
 ### welcome Everybody 👋
 
-<!--
-**Saf-sa/Saf-sa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Github
 - 🌱 I’m currently learning Html Css Javascript
 - 👯 I’m looking to collaborate on ...
@@ -20,4 +15,4 @@ Here are some ideas to get you started:
 
 - 😄 Pronouns: Saf
 - ⚡ Fun fact: forever learner :joy:
--->
+
