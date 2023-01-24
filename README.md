@@ -1,6 +1,6 @@
 ### welcome Everybody 👋
 
-- 🔭 I’m currently working on Github
+- 🔭 I’m currently working on Html
 - 🌱 I’m currently learning Html Css Javascript
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
